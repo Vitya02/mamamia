@@ -1,0 +1,469 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aleo:wght@300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.img{
+    background-image: url('./Image.png');
+    width: 1440px;
+    height: 820px;
+}
+form {
+  position: relative;
+  top: 440px;
+  right: 20px;
+  width: 300px;
+  margin: 0 auto;
+}
+input {
+    position: relative;
+    right: 40px;
+  width: 400px;
+  height: 42px;
+  padding-left: 10px;
+  border: 2px solid #ffffff;
+  outline: none;
+  background: #ffffff;
+  color: #ffffff;
+}
+.buttom1 {
+  position: relative; 
+  left: 310px;
+  bottom: 42px;
+  width: 70px;
+  height: 42px;
+  border: none;
+  background-color: #5474fd;
+  color: white;
+}
+h1{position: relative;
+    top: 300px;
+    color: #ffffff;
+    font-family: "Josefin Sans";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 26px;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 4.8px;
+    line-height: normal;
+}
+.about_company{
+    position: relative;
+    top: 350px;
+    left: 550px;
+    color: #ffffff;
+font-family: "Josefin Sans";
+font-size: 22px;
+line-height: 26px;
+text-align: center;
+font-style: normal;
+letter-spacing: 6.82px;
+line-height: normal;
+}
+.navi{
+    width: 1770px;
+height: 80px;
+background-color: #5474fd;
+color: white;
+}
+.we_are1{position: relative;
+    left: 500px;
+    top: 15px;
+    font-family: Aleo;
+font-size: 14px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+text-transform: uppercase;
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+.we_are2{
+    position: relative;
+    left: 600px;
+    top: 15px;
+    font-family: Aleo;
+font-size: 14px;
+line-height: 26px;
+text-transform: uppercase;
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+.we_are3{
+    position: relative;
+    left: 700px;
+    top: 15px;
+    font-family: Aleo;
+font-size: 14px;
+line-height: 26px;
+text-transform: uppercase;
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+.we_are4{
+    position: relative;
+    left: 800px;
+    top: 15px;;
+    font-family: Aleo;
+font-size: 14px;
+line-height: 26px;
+text-transform: uppercase;
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+.navi_name{
+    position: relative;
+    left: 150px;
+    top: 20px;
+color: #ffffff;
+font-family: "Josefin Sans";
+font-size: 24px;
+font-weight: 700;
+line-height: 26px;
+text-align: left;
+text-transform: uppercase;
+font-style: normal;
+letter-spacing: 2.4px;
+line-height: normal;
+}
+.sec1{
+    background-image: url('./imagine\ 2.png');
+    width: 1440px;
+height: 685px;
+}
+.img21{
+    position: relative;
+    top: 50px;
+    left: 850px;
+}
+.img22{
+    position: relative;
+    top: 300px;
+    left: 650px;
+}
+h2{position: relative;
+    left: 250px;
+    color: #ffffff;
+font-family: Aleo;
+font-size: 36px;
+font-weight: 400;
+line-height: 26px;
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+.text_for_us{
+    position: relative;
+    top: 50px;
+    left: 250px;
+    width: 530px;
+    height: 146px;
+    color: #e8e8e8;
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    font-style: normal;
+    letter-spacing: 1.6px;
+    line-height: normal;
+}
+.cool{position: relative;
+    left: 250px;
+
+    width: 530px;
+    height: 146px;
+    color: #e8e8e8;
+font-family: "Josefin Sans";
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+font-style: normal;
+letter-spacing: 1.6px;
+line-height: normal;
+}
+.buttom2{
+    position: relative;
+    left: 250px;
+    bottom: 20px;
+  width: 110px;
+  height: 45px;
+  border: none;
+  background-color: #5474fd;
+  color: white;
+}
+.lanch{
+    background-color: #333333;
+    height: 200px;
+    width: 1440px;
+    color: white;
+}
+.look{position: relative;
+    left: 300px;
+    top: 50px;
+}
+.yes{
+    position: relative;
+    left: 600px;
+    top: 50px;
+}
+.what{
+    position: relative;
+    left: 900px;
+    top: 50px;
+}
+.place{
+    position: relative;
+    left: 50px;
+    top: 100px;
+    font-family: Aleo;
+font-size: 36px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 26px;
+text-align: center;
+}
+.place2{
+    position: relative;
+    left: 180px;
+    top: 100px;
+    font-family: Aleo;
+font-size: 36px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 26px;
+text-align: center;
+}
+.place3{
+    position: relative;
+    left: 310px;
+    top: 100px;
+    font-family: Aleo;
+font-size: 36px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 26px;
+text-align: center;
+}
+.sec2{
+    background-image: url('./imagine3.png');
+    width: 1440px;
+    height: 700px;
+
+}
+.opa{    position: relative;
+    top: 200px;
+    left: 300px;
+    width: 540px;
+height: 371px;
+background-color: #232323;
+opacity: 0.9;
+}
+.country{
+    position: relative;
+    left: 50px;
+    top: 50px;
+    color: #e8e8e8;
+font-family: "Josefin Sans";
+font-size: 20px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 1.5px;
+line-height: normal;
+}
+h3{
+    position: relative;
+    left: 50px;
+    top: 80px;color: #ffffff;
+    font-family: "Josefin Sans";
+    font-size: 20px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 26px;
+    text-transform: uppercase;}
+.good{
+    width: 450px;
+    position: relative;
+    left: 50px;
+    top: 120px;
+    color: white;
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 26px;}
+.buttom3{
+    position: relative;
+    left: 50px;
+    top: 150px;
+  width: 110px;
+  height: 45px;
+  border: none;
+  background-color: #5474fd;
+  color: white;
+}
+.sec3{
+    width: 1440px;
+    height: 700px;
+    background-image: url('./imagine4.png');
+}
+.opacityy{
+    position: relative;
+    top: 200px;
+    left: 650px;
+    width: 540px;
+    height: 371px;
+    background-color: #232323;
+    opacity: 0.9;
+}
+.country_1{
+    position: relative;
+    left: 50px;
+    top: 50px;
+    color: #e8e8e8;
+font-family: "Josefin Sans";
+font-size: 20px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 1.5px;
+line-height: normal;
+}
+h4{
+    position: relative;
+    left: 50px;
+    top: 80px;color: #ffffff;
+    font-family: "Josefin Sans";
+    font-size: 20px;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 26px;
+    text-transform: uppercase;}
+.good1{
+    width: 450px;
+    position: relative;
+    left: 50px;
+    top: 120px;
+    color: white;
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 26px;}
+.buttom4{
+    position: relative;
+    left: 50px;
+    top: 150px;
+  width: 110px;
+  height: 45px;
+  border: none;
+  background-color: #5474fd;
+  color: white;
+}
+.sec4{
+    background-image: url('imagine5.png');
+    width: 1440px;
+    height: 731px;
+}
+h5{ position: relative;
+    left: 550px;
+    top: 100px;
+    color: #ffffff;
+font-family: Aleo;
+font-size: 36px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 26px;
+}
+.img4{
+    position: relative;
+    top: 220px;
+    left: 205px;
+}
+.img4pro{
+    width: 665px;
+height: 284px;
+background-color: #333333;
+position: relative;
+left: 650px;
+bottom: 70px;
+}
+.onion{
+    width: 600px;
+    position: relative;
+    top: 100px;
+    left: 30px;
+    color: #e8e8e8;
+font-family: "Josefin Sans";
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+}
+.ckobka{
+    color: #5474fd;
+font-family: "Font Awesome";
+font-size: 50px;
+font-weight: 900;
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+.sam{
+    position: relative;
+    bottom: 100px;
+    left: 30px;
+    color: #fefefe;
+font-family: "Josefin Sans";
+font-size: 20px;
+font-weight: 400;
+line-height: 26px;
+text-transform: uppercase;
+}
+.finish{width: 1440px;
+    height: 230px;
+    background-color: #232323;
+}
+.icon{
+    position: relative;
+    top: 180px;
+    left: 500px;
+}
+.finish_name{
+    position: relative;
+    left: 660px;
+    top: 50px;
+    color: #ffffff;
+font-family: "Josefin Sans";
+font-size: 24px;
+font-weight: 700;
+font-style: normal;
+letter-spacing: normal;
+line-height: 26px;
+text-align: left;
+text-transform: uppercase;
+}
+.safe{
+    position: relative;
+    left: 340px;
+    top: 100px;
+    color: #ffffff;
+    font-family: "Josefin Sans";
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 26px;
+    text-align: center;}
